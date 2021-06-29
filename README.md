@@ -1,1 +1,1 @@
-This is collection of programs I wrote while learning Java
+This is a collection of programs I wrote while learning Java
